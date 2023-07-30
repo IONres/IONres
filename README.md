@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Olga
+**I'm Olga**
 
 I am an organizational psychology researcher.
 I would like science and practice to interact more closely. And I want to contribute to this.
