@@ -3,7 +3,7 @@
 
 I am an organizational psychology researcher.
 I would like science and practice to interact more closely. And I want to contribute to this.
-I am confident that the combination of scientific knowledge, practical experience and the automation of certain processes will help the organization become more efficient while maintaining the well-being of its employees.
+I am confident that the combination of scientific knowledge, practical experience and the automation of certain processes will help organizations become more efficient while maintaining the well-being of employees. 
 <!--
 **IONres/IONres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
